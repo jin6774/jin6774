@@ -1,5 +1,5 @@
 🤍 Hi, I’m Chaejin<br>
-🤍 I’m interested in Game🎮, Drawing🎨, Sports🏸, Cat🐈, photography📸 and Coding👩🏻‍💻<br>
+🤍 I’m interested in Game🎮, Drawing🎨, Sports🏸, Cat🐈, Photography📸 and Coding👩🏻‍💻<br>
 🤍 I’m currently learning Digital Media Design & Programming<br>
 🤍 How to reach me : jeong9175@gmail.com<br>
 
