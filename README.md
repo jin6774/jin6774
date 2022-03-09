@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chaejin
-- 👀 I’m interested in Game.
-- 🌱 I’m currently Digital Media Design & Programming.
+- 👀 I’m interested in Game
+- 🌱 I’m currently Digital Media Design & Programming
 - 📫 How to reach me : jeong9175@gmail.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin6774&count_bg=%239EC1EB&title_bg=%23677080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
