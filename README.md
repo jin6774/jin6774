@@ -1,9 +1,9 @@
 🌿 Hi, I’m Chaejin<br>
-🌿 I’m interested in Game🎮, Drawing🎨, Sports🏸, Cat🐈, Photography📸 and Coding👩🏻‍💻<br>
+🌿 I’m interested in Game, Drawing, Sports, Cat, Photography and Coding<br>
 🌿 I’m currently learning Digital Media Design & Programming<br>
 🌿 How to reach me : jeong9175@gmail.com<br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin6774&count_bg=%239EC1EB&title_bg=%23677080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin6774&count_bg=%23CFEEB9&title_bg=%23FFFFFF&icon=&icon_color=%23FFFFFF&title=%F0%9F%8C%BF&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
