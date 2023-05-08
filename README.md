@@ -1,8 +1,3 @@
-🌿 Hi, I’m Chaejin<br>
-🌿 I’m interested in Game, Drawing, Sports, Cat, Photography and Coding<br>
-🌿 I’m currently learning Digital Media Design & Programming<br>
-🌿 How to reach me : jeong9175@gmail.com<br>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin6774&count_bg=%2393CD66&title_bg=%23FFFFFF&icon=&icon_color=%23FFFFFF&title=%F0%9F%8C%BF&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
